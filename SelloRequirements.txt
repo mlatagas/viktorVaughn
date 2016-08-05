@@ -1,0 +1,27 @@
+###############################################################SELLO REQUIREMNTS################################################################
+Use plant uml to document it...
+Id like a domain model
+Services class diagram. Use Business Service, Facade, DTO DAO JPA Postgres
+Entity Objects.
+
+Show me your understanding of coarse grained vs fine grained TOs
+One to start many in phase 2.
+Make it simple and go live
+Real artists ship...
+
+Core patterns... You have the book.
+Checkout plant uml. I need class and sequence take a stab at deployment diagram.
+
+Responsive AngularJS for front end
+Embed app site in phonegaps app
+Wire everything up in spring so use swagger editor to generate spring stubs....
+Run on tomcat.
+Use maven to build...
+Push to github and share code from there
+
+
+Product backlog sprint plan
+Pick a scrum master
+Create a board on jira
+Daily scrum
+Get to potentially shippable artifact
